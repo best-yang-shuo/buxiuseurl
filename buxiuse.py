@@ -39,7 +39,7 @@ ualist = [
 headers = {
             "user-agent":random.choice(ualist)
 }
-#@3_ot1kjp
+
 
 for count in range(1,11):
     url=f'http://www.buxiuse.com/current?gid=29&page={count}'
